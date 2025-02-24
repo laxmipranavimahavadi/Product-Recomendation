@@ -1,0 +1,13 @@
+[
+    {"id": 1, "name": "Wireless Headphones", "category": "Electronics", "description": "Noise-canceling wireless headphones with long battery life.", "price": 150},
+    {"id": 2, "name": "Smartwatch", "category": "Wearable Tech", "description": "Waterproof smartwatch with heart rate monitoring and GPS.", "price": 200},
+    {"id": 3, "name": "Yoga Mat", "category": "Fitness", "description": "Eco-friendly non-slip yoga mat for all fitness levels.", "price": 50},
+    {
+        "id": 4,
+        "name": "Resistance Bands",
+        "category": "Fitness",
+        "description": "Set of resistance bands for home workouts.",
+        "price": 30
+    }
+    
+]
